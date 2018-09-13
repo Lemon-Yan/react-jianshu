@@ -25,7 +25,7 @@ react实现简书部分功能
 - 详情页面的展示功能
 
 ### 3、 首页预览
-https://upload-images.jianshu.io/upload_images/4041074-d3e82829d5909545.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+![](https://upload-images.jianshu.io/upload_images/4041074-19d3242b846b5d7c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 二、如何执行
 ###  1、将项目克隆到本地，cd到react-jianshu
